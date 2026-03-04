@@ -1,4 +1,4 @@
-﻿# Auditoria de Cuentas Administrativas Locales - Documentacion Operativa
+﻿# Auditoria de Cuentas Administrativas Locales
 
 Script principal: `local-admin-audit.ps1`
 
